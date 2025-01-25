@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React: using deprecated lifecycle methods for state updates.  The `bug.js` file shows the incorrect implementation using `componentWillMount`.  The `bugSolution.js` file provides the correct implementation using `useEffect`.
